@@ -1,0 +1,23 @@
+* {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+p {
+    background-color: pink;
+    color: black;
+}
+
+#idOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#coolerClass {
+    font-size: 24px;
+}
+
+#idTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
